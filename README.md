@@ -1,0 +1,1 @@
+Developed a robust dashboard to track and measure progress toward gender balance, particularly at the executive management level. This comprehensive tool empowers stakeholders to make informed decisions, fostering a more inclusive workplace culture and enhancing organizational effectiveness.
